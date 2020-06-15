@@ -1,4 +1,6 @@
-/*
+Solution to Leetcode problem
+Spiral Matrix
+
 Given a positive integer n, generate a square matrix filled with elements 
 from 1 to n2 in spiral order.
 
@@ -11,7 +13,7 @@ Output:
  [ 8, 9, 4 ],
  [ 7, 6, 5 ]
 ]
-*/
+
 
 /*
 EXAMPLE CALL:

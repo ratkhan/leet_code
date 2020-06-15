@@ -1,3 +1,5 @@
+Solution to Leetcode problem
+Rotate String
 We are given two strings, A and B.
 
 A shift on A consists of taking string A and moving the leftmost character 

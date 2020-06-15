@@ -1,3 +1,5 @@
+Solution to Leetcode problem
+Day of the year
 Given a string date representing a Gregorian calendar date formatted
 as YYYY-MM-DD, return the day number of the year.
 
